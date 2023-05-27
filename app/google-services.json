@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314784140252",
+    "project_id": "eclass-7319f",
+    "storage_bucket": "eclass-7319f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314784140252:android:9c294a48a5fdb0464d5d19",
+        "android_client_info": {
+          "package_name": "om.qdot.eclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314784140252-f31h4jdogc3cf5h81ovovn12jb8l7p77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1nuT2leacYm0S0wN-eYcCCJZEbuHVHh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314784140252-f31h4jdogc3cf5h81ovovn12jb8l7p77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

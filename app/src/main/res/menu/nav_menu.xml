@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_item"
+        android:title="Main section">
+        <menu>
+            <item
+                android:id="@+id/class_item"
+                android:icon="@drawable/baseline_class_24"
+                android:title="Classes"
+                android:checkable="true"
+                android:checked="true"/>
+            <item
+                android:id="@+id/notification_item"
+                android:icon="@drawable/baseline_notifications_24"
+                android:title="Notifications"
+                android:checkable="true"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/account_item"
+        android:title="Account section">
+        <menu>
+            <item
+                android:id="@+id/profile_item"
+                android:icon="@drawable/baseline_person_4_24"
+                android:title="Account"
+                android:checkable="true" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/sub_item"
+        android:title="Help section">
+        <menu>
+            <item
+                android:id="@+id/policy_item"
+                android:icon="@drawable/baseline_policy_24"
+                android:title="Privacy policy"
+                android:checkable="true"/>
+            <item
+                android:id="@+id/setting_item"
+                android:icon="@drawable/baseline_settings_24"
+                android:title="Settings"
+                android:checkable="true"/>
+        </menu>
+    </item>
+</menu>
